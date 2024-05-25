@@ -1,0 +1,9 @@
+.vscode
+.idea
+/Testing/
+/test/Testing/
+/cmake-build-debug/
+/**/.vs/
+/**/x64/
+/**/*.vcxproj.user
+
